@@ -374,7 +374,7 @@ inline void pcl::registration::GRORInitialAlignment<PointSource, PointTarget, Sc
 	final_transformation_ = guess;
 
 	// If the guessed transformation is non identity
-	if (guess != Matrix4::Identity())
+	if (guess != Eigen::Matrix4f::Identity())
 	{
 		input_transformed->resize(input_->size());
 		// Apply guessed transformation prior to search for neighbours
