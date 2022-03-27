@@ -2,7 +2,7 @@ cmake_minimum_required(VERSION 3.5)
 
 project(GrorReg)
 
-set(PCL_DIR "D:/ThirdLib/PCL 1.8.1/cmake")
+#set(PCL_DIR "D:/ThirdLib/PCL 1.8.1/cmake")
 #set(PCL_DIR "C:/Program Files/PCL 1.12.0/cmake")
 
 find_package(PCL REQUIRED)
