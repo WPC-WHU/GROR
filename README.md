@@ -8,7 +8,8 @@ GROR:A New Outlier Removal Strategy Based on Reliability of Correspondence Graph
 
 GROR can solve the 6-dof registration problem between two point clouds in 3D. It performs well (fast and robust) even if the input correspondences have an extremely large number of outliers. For more information, please refer to our papers:
 
-A New Outlier Removal Strategy Based on Reliability of Correspondence Graph for Fast Point Cloud Registration
+[A New Outlier Removal Strategy Based on Reliability of Correspondence Graph for Fast Point Cloud Registration](https://arxiv.org/abs/2205.07404)
+
 ![image](https://user-images.githubusercontent.com/32131223/158198857-c878d438-2e13-4ed2-99ab-528b4bdb294b.png)
 # Getting Started
 ## Environment:
@@ -36,3 +37,16 @@ make
  You can test on the online available point cloud data and registration dataset such as [WHU TLS Registration Dataset](http://3s.whu.edu.cn/ybs/en/benchmark.htm), [ETH PRS TLS Registration Dataset](https://prs.igp.ethz.ch/research/completed_projects/automatic_registration_of_point_clouds.html), [ETH ASL Robotics Registration Dataset](https://projects.asl.ethz.ch/datasets/doku.php?id=laserregistration:laserregistration), [3D Match](http://3dmatch.cs.princeton.edu/), [Robotic 3D Scan Repository](http://kos.informatik.uni-osnabrueck.de/3Dscans/), etc.
 
 You may apply the format transform tool to get the data ready for registration.
+
+## Citation
+If you find our code or paper helps, please consider citing:
+
+ ```
+@misc{GROR,
+   title = {A New Outlier Removal Strategy Based on Reliability of Correspondence Graph for Fast Point Cloud Registration},
+   author = {Li Yan and Pengcheng Wei and Hong Xie and Jicheng Dai and Hao Wu and Ming Huang},
+   month = {5},
+   url = {http://arxiv.org/abs/2205.07404},
+   year = {2022},
+}
+```
