@@ -1,6 +1,9 @@
 # GROR
-GROR:A New Outlier Removal Strategy Based on Reliability of Correspondence Graph for Fast Point Cloud Registration
-
+***GROR: A New Outlier Removal Strategy Based on Reliability of Correspondence Graph for Fast Point Cloud Registration***
+## News
+* [2022-12-05] The paper has been accessed online (Early Acess)! Check [here](https://doi.org/10.1109/TPAMI.2022.3226498) to get it.
+* [2022-11-26] Our paper has been accpeted by ***TPAMI*** (IEEE Transactions on Pattern Analysis and Machine Intelligence)(IF:24.314) !
+* [2022-03-05] Submit the manuscript to the journal.
 # About
 ![image](https://user-images.githubusercontent.com/32131223/158051652-8494f83e-4439-4034-a5ff-ff28920b088f.png)
 
@@ -42,11 +45,13 @@ You may apply the format transform tool to get the data ready for registration.
 If you find our code or paper helps, please consider citing:
 
  ```
-@misc{GROR,
-   title = {A New Outlier Removal Strategy Based on Reliability of Correspondence Graph for Fast Point Cloud Registration},
-   author = {Li Yan and Pengcheng Wei and Hong Xie and Jicheng Dai and Hao Wu and Ming Huang},
-   month = {5},
-   url = {http://arxiv.org/abs/2205.07404},
-   year = {2022},
-}
+@ARTICLE{9969937,
+  author={Yan, Li and Wei, Pengcheng and Xie, Hong and Dai, Jicheng and Wu, Hao and Huang, Ming},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+  title={A New Outlier Removal Strategy Based on Reliability of Correspondence Graph for Fast Point Cloud Registration}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={1-17},
+  doi={10.1109/TPAMI.2022.3226498}}
 ```
