@@ -3,7 +3,6 @@
 ## News
 * [2022-12-05] The paper has been accessed online (Early Acess)! Check [here](https://doi.org/10.1109/TPAMI.2022.3226498) to get it.
 * [2022-11-26] Our paper has been accpeted by ***TPAMI*** (IEEE Transactions on Pattern Analysis and Machine Intelligence)(IF:24.314) !
-* [2022-03-05] Submit the manuscript to the journal.
 # About
 ![image](https://user-images.githubusercontent.com/32131223/158051652-8494f83e-4439-4034-a5ff-ff28920b088f.png)
 
