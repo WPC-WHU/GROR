@@ -8,7 +8,7 @@ GROR:A New Outlier Removal Strategy Based on Reliability of Correspondence Graph
 
 GROR can solve the 6-dof registration problem between two point clouds in 3D. It performs well (fast and robust) even if the input correspondences have an extremely large number of outliers. For more information, please refer to our papers:
 
-[A New Outlier Removal Strategy Based on Reliability of Correspondence Graph for Fast Point Cloud Registration](https://arxiv.org/abs/2205.07404)
+[A New Outlier Removal Strategy Based on Reliability of Correspondence Graph for Fast Point Cloud Registration](https://doi.org/10.1109/TPAMI.2022.3226498)
 
 ![image](https://user-images.githubusercontent.com/32131223/158198857-c878d438-2e13-4ed2-99ab-528b4bdb294b.png)
 # Getting Started
